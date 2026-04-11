@@ -9,5 +9,7 @@ hier onder zijn plaatjes van honden met de naam erbij, om te kijken welke je moo
 
     keeshond.           Golden Retriever. 
     maltipoo.           Duitse Herder. 
-    poedel.              Teckel. 
-    chihuahua.           
+    poedel.             Teckel. 
+    chihuahua.          Labrador. 
+    Beagle.             Boxer. 
+    Bulldog.            Husky. 
