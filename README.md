@@ -7,3 +7,4 @@ Elke ras is ook nog anders en elke hond is ook anders, dus denk goed na over je 
 En ten tweede dan welke ras je neemt.
 hier onder zijn plaatjes van honden met de naam erbij, om te kijken welke je mooi vindt, daar onder vind je weer alerlei informatie over het ras, als ja zo'n hond neemt kan het afwijken van wat hier wordt gezegd.
 
+    keeshond.           Golden Retriever. 
