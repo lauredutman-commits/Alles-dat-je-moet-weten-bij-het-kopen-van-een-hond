@@ -10,7 +10,7 @@ Maar vergeet nooit dat je bij een 3-3-3 regel hebt, de eerste 3 staat voor 3 dag
 
     keeshond.           Golden Retriever. 
     maltipoo.           Duitse Herder. 
-    poedel.             Teckel. 
+    Teckel.             Terriër.
     chihuahua.          Labrador. 
     Beagle.             Boxer. 
     Bulldog.            Husky. 
